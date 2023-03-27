@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on End to End Machine Learning projects for my Portfolio<br>👯 I’m looking to collaborate on ML & AI project and building of software produts<br>🤝 I’m looking for help with Data Engineering Projects<br>🌱 I’m currently learning Full Stack Development using React Framework<br>💬 Ask me about Data Science and Data Analytics<br>⚡ Fun fact - I love to drink water from a bowl
+🔭 I’m currently working on End to End Machine Learning projects for my Portfolio<br>👯 I’m looking to collaborate on ML & AI project and building of software produts<br>🤝 I’m looking for help with Data Engineering Projects<br>🌱 I’m currently learning MERN Full Stack Development using React Framework<br>💬 Ask me about Data Science and Data Analytics<br>⚡ Fun fact - I love to drink water from a bowl
 
 
 ## 🌐 Socials:
